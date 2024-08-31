@@ -13,7 +13,7 @@ const Home = () => {
                         </video>
 
                         <div class="video-overlay">
-                            <h1>Traverse</h1>
+                            <h1 className='dancing-script-font'>Traverse</h1>
                             <p style={{fontSize:"2rem"}}>Map Out your adventure</p>
                         </div>
                     </div>
